@@ -1,6 +1,6 @@
 ### hi there 👋
 
-- I am sahil, a cyber-sec enthusiast who work as a Red-Teamer.
+- I am sahil, a Cyber-Sec enthusiast who work as a Red-Teamer.
 
 ***
 
@@ -18,8 +18,8 @@
 
 
 - :cyclone: Working Language ...
-  - ``Compiled`` : C,C++, Java
-  - ``Scripting`` : Python, bash
+  - ``Compiled`` : C ,  C++ , Java
+  - ``Scripting`` : Python , bash
 
 - 👯 I’m looking to collaborate on ...
   - Binary Exploitation
