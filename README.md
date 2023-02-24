@@ -1,16 +1,48 @@
-### Hi there 👋
+### hi there 👋
 
-<!--
-**sahilwep/sahilwep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am sahil, a cyber-sec enthusiast who work as a Red-Teamer.
 
-Here are some ideas to get you started:
+***
 
 - 🔭 I’m currently working on ...
+  - CTFs
+  - Binary Exploitation
+    - [pwn.college](https://pwn.college)
+    - [Nightmare](https://guyinatuxedo.github.io/)
+  - opersource projects
+
+
 - 🌱 I’m currently learning ...
+  - Binary Exploitation
+  - Python web scraping
+
+
+- :cyclone: Working Language ...
+  - ``Compiled`` : C,C++, Java
+  - ``Scripting`` : Python, bash
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+  - Binary Exploitation
+  - CTFs
+  - Bug Hunting
+  - Cloud Security
+
+
 - 💬 Ask me about ...
+  - Web Security
+  - Basics Binary Exploitation
+  - CTFs
+  - Linux
+  - Pentesting methodologies
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+  - [Twitter](https://twitter.com/sahilwep)
+  - [Mail](mailto:sahilwep@gmail.com)
+  - [Discord](https://discord.com/users/sahilwep#8436)
+
+
 - ⚡ Fun fact: ...
--->
+    - yeah! you can exit from vim. 
+
+***
