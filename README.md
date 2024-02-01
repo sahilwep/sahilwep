@@ -1,27 +1,37 @@
 ### hi there 👋
 
-##### I am Sahil, a Cyber-Sec enthusiast who work as a Red-Teamer.
+##### I am Sahil, a Cyber-Sec enthusiast working in DevSecOps..
 
 ***
 
 - 🔭 I’m currently working on ...
-  - CTFs
+  - RUST BackEnd Project (related to payment Services)
+  - Rust WebAssenbly Projects (Full Stack)
+  - Rust Concurrency Projects (System Programming)
   - Binary Exploitation
     - [pwn.college](https://pwn.college)
     - [Nightmare](https://guyinatuxedo.github.io/)
-  - opersource projects
+  - CTFs (Very Often)
+  - Opersource projects
 
 
 - 🌱 I’m currently learning ...
+  - RUST WebAssembly
+  - RUST System Concurrency
+  - WebRTC Framework
+  - DevOps Concepts
+  - DSA Practice (C++)
   - Binary Exploitation
-  - Python web scraping
-
+  - AI (Prolog)
+  - Data Exploration & Prepration (R-Language)
 
 - :cyclone: Working Language ...
-  - ``Compiled`` : C ,  C++ , Java
-  - ``Scripting`` : Python , bash
+  - ``Compiled`` : `RUST`,  `C` ,  `C++`
+  - ``Scripting`` : `Python` , `bash`, `SQL`
 
 - 👯 I’m looking to collaborate on ...
+  - RUST Projects
+  - DevOps Projects
   - Binary Exploitation
   - CTFs
   - Bug Hunting
@@ -29,6 +39,8 @@
 
 
 - 💬 Ask me about ...
+  - RUST
+  - DevOps
   - Web Security
   - Basics Binary Exploitation
   - CTFs
