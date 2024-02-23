@@ -13,6 +13,7 @@
     - [Nightmare](https://guyinatuxedo.github.io/)
   - CTFs (Very Often)
     - <img src="https://tryhackme-badges.s3.amazonaws.com/sahilwep.png?3" alt="TryHackMe_Rank">
+    - [TryHackMe](https://tryhackme.com/p/sahilwep)
   - Opersource projects
  
 - 🌱 I’m currently learning ...
