@@ -5,13 +5,13 @@
 ***
 
 - 🔭 I’m currently working on ...
-  - RUST BackEnd Project (related to payment Services)
+  - Exploring RUST BackEnd Projects
   - Rust WebAssenbly Projects (Full Stack)
   - Rust Concurrency Projects (System Programming)
   - Binary Exploitation
     - [pwn.college](https://pwn.college)
     - [Nightmare](https://guyinatuxedo.github.io/)
-  - CTFs (Very Often)
+  - CTFs 
     - <img src="https://tryhackme-badges.s3.amazonaws.com/sahilwep.png?3" alt="TryHackMe_Rank">
     - [TryHackMe](https://tryhackme.com/p/sahilwep)
   - Opersource projects
