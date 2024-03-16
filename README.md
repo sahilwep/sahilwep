@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on ...
   - Exploring RUST BackEnd Projects
-  - Rust WebAssenbly Projects (Full Stack)
-  - Rust Concurrency Projects (System Programming)
+  - Rust WebAssenbly Projects
+  - Rust Concurrency Projects
   - Binary Exploitation
     - [pwn.college](https://pwn.college)
     - [Nightmare](https://guyinatuxedo.github.io/)
@@ -23,7 +23,7 @@
   - DevOps Concepts
   - DSA Practice (C++)
   - Binary Exploitation
-  - AI (Prolog)
+  - AI (Py)
   - Data Exploration & Prepration (R-Language)
 
 - :cyclone: Working Language ...
@@ -42,10 +42,12 @@
 - 💬 Ask me about ...
   - RUST
   - DevOps
+  - wasm
   - Web Security
   - Basics Binary Exploitation
   - CTFs
   - Linux
+  - Networking
   - Pentesting methodologies
 
 
