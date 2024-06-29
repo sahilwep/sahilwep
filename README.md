@@ -5,7 +5,7 @@
 ***
 
 - 🔭 I’m currently working on ...
-  - Exploring RUST BackEnd Projects
+  - Exploring RUST Actix
   - Rust WebAssenbly Projects
   - Rust Concurrency Projects
   - Binary Exploitation
@@ -17,20 +17,19 @@
   - Opersource projects
  
 - 🌱 I’m currently learning ...
+  - Competitive Programming
   - RUST WebAssembly
   - RUST System Concurrency
-  - WebRTC Framework
+  - WebRTC
+  - gRPC
   - DevOps Concepts
-  - DSA Practice (C++)
   - Binary Exploitation
-  - AI (Py)
+  - DSA Practice (C++)
   - Data Exploration & Prepration (R-Language)
 
-- :cyclone: Working Language ...
-  - ``Compiled`` : `RUST`,  `C` ,  `C++`
-  - ``Scripting`` : `Python` , `bash`, `SQL`
 
 - 👯 I’m looking to collaborate on ...
+  - Competitive programming events
   - RUST Projects
   - DevOps Projects
   - Binary Exploitation
@@ -40,13 +39,15 @@
 
 
 - 💬 Ask me about ...
+  - DSA
   - RUST
   - DevOps
   - wasm
   - Web Security
   - Basics Binary Exploitation
   - CTFs
-  - Linux
+  - NVIM
+  - Linux, RHEL
   - Networking
   - Pentesting methodologies
 
@@ -59,5 +60,11 @@
 
 - ⚡ Fun fact: ...
     - yeah! you can exit from vim. 
+
+
+<h3 align="center">Languages & Tools</h3>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,html,js,css,bootstrap,python,bash,vscode,vim,neovim,discord,docker,kubernetes,jenkins,express,git,github,githubactions,linux,apple,kali,redhat,arch,md,nextjs,npm,nginx,nodejs,postgres,postman,tauri,react,redis,regex,replit,stackoverflow,mysql,vercel,wasm&perline=8&theme=dark" />
+</p>
 
 ***
