@@ -4,9 +4,9 @@
 
 ***
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on...
   - Exploring RUST Actix
-  - Rust WebAssenbly Projects
+  - Backend Projects
   - Rust Concurrency Projects
   - Binary Exploitation
     - [pwn.college](https://pwn.college)
@@ -16,19 +16,20 @@
     - [TryHackMe](https://tryhackme.com/p/sahilwep)
   - Opersource projects
  
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning...
+  - Advance Data-Structures
   - Competitive Programming
-  - RUST WebAssembly
   - RUST System Concurrency
   - WebRTC
+  - HLS-ABR Techonology
   - gRPC
   - DevOps Concepts
+  - CICD Git-Actions
   - Binary Exploitation
   - DSA Practice (C++)
-  - Data Exploration & Prepration (R-Language)
 
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on...
   - Competitive programming events
   - RUST Projects
   - DevOps Projects
@@ -38,7 +39,7 @@
   - Cloud Security
 
 
-- 💬 Ask me about ...
+- 💬 Ask me about...
   - DSA
   - RUST
   - DevOps
@@ -52,14 +53,14 @@
   - Pentesting methodologies
 
 
-- 📫 How to reach me: ...
+- 📫 How to reach me:
   - [Twitter](https://twitter.com/sahilwep)
   - [Mail](mailto:sahilwep@gmail.com)
   - [Discord](https://discord.com/users/sahilwep#8436)
 
 
-- ⚡ Fun fact: ...
-    - yeah! you can exit from vim. 
+- ⚡ Fun fact:
+    - yeah! you can exit from vim.
 
 
 <h3 align="center">Languages & Tools</h3>
